@@ -1,0 +1,12 @@
+/home/anh-net/projects/dotnetMvc/Shop.Models/bin/Debug/net6.0/Shop.Models.deps.json
+/home/anh-net/projects/dotnetMvc/Shop.Models/bin/Debug/net6.0/Shop.Models.dll
+/home/anh-net/projects/dotnetMvc/Shop.Models/bin/Debug/net6.0/Shop.Models.pdb
+/home/anh-net/projects/dotnetMvc/Shop.Models/obj/Debug/net6.0/Shop.Models.csproj.AssemblyReference.cache
+/home/anh-net/projects/dotnetMvc/Shop.Models/obj/Debug/net6.0/Shop.Models.GeneratedMSBuildEditorConfig.editorconfig
+/home/anh-net/projects/dotnetMvc/Shop.Models/obj/Debug/net6.0/Shop.Models.AssemblyInfoInputs.cache
+/home/anh-net/projects/dotnetMvc/Shop.Models/obj/Debug/net6.0/Shop.Models.AssemblyInfo.cs
+/home/anh-net/projects/dotnetMvc/Shop.Models/obj/Debug/net6.0/Shop.Models.csproj.CoreCompileInputs.cache
+/home/anh-net/projects/dotnetMvc/Shop.Models/obj/Debug/net6.0/Shop.Models.dll
+/home/anh-net/projects/dotnetMvc/Shop.Models/obj/Debug/net6.0/refint/Shop.Models.dll
+/home/anh-net/projects/dotnetMvc/Shop.Models/obj/Debug/net6.0/Shop.Models.pdb
+/home/anh-net/projects/dotnetMvc/Shop.Models/obj/Debug/net6.0/ref/Shop.Models.dll
