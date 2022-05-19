@@ -387,3 +387,10 @@
 /home/anh-net/projects/dotnetMvc/Shop.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
 /home/anh-net/projects/dotnetMvc/Shop.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
 /home/anh-net/projects/dotnetMvc/Shop.Web/obj/Debug/net6.0/Shop.Web.MvcApplicationPartsAssemblyInfo.cs
+/home/anh-net/projects/dotnetMvc/Shop.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/anh-net/projects/dotnetMvc/Shop.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/anh-net/projects/dotnetMvc/Shop.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/anh-net/projects/dotnetMvc/Shop.Web/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/home/anh-net/projects/dotnetMvc/Shop.Web/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/home/anh-net/projects/dotnetMvc/Shop.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.dll
+/home/anh-net/projects/dotnetMvc/Shop.Web/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Embedded.dll

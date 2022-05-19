@@ -16298,13 +16298,18 @@
   "RootNamespace": "Shop.Web",
   "Documents": [
     {
-      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Views/Category/Edit.cshtml",
-      "TargetPath": "Views\\Category\\Edit.cshtml",
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Admin/Views/CoverType/Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\CoverType\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Views/Category/Index.cshtml",
-      "TargetPath": "Views\\Category\\Index.cshtml",
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Admin/Views/CoverType/Delete.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\CoverType\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Admin/Views/Product/UpSert.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Product\\UpSert.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16323,13 +16328,33 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Admin/Views/Category/Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Category\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Admin/Views/Category/Create.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Admin/Views/_ViewStart.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Admin/Views/CoverType/Edit.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\CoverType\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Customer/Views/Home/Index.cshtml",
+      "TargetPath": "Areas\\Customer\\Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16338,18 +16363,48 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Views/Category/Delete.cshtml",
-      "TargetPath": "Views\\Category\\Delete.cshtml",
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Admin/Views/Category/Delete.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Category\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Customer/Views/Home/Details.cshtml",
+      "TargetPath": "Areas\\Customer\\Views\\Home\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Views/Category/Create.cshtml",
-      "TargetPath": "Views\\Category\\Create.cshtml",
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Admin/Views/_ViewImports.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Customer/Views/_ViewStart.cshtml",
+      "TargetPath": "Areas\\Customer\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Admin/Views/CoverType/Create.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\CoverType\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Admin/Views/Category/Edit.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Category\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Customer/Views/Home/Privacy.cshtml",
+      "TargetPath": "Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Customer/Views/_ViewImports.cshtml",
+      "TargetPath": "Areas\\Customer\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Admin/Views/Product/Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Product\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
