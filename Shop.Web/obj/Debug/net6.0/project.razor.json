@@ -16333,6 +16333,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Admin/Views/Company/Upsert.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Company\\Upsert.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Admin/Views/Category/Create.cshtml",
       "TargetPath": "Areas\\Admin\\Views\\Category\\Create.cshtml",
       "FileKind": "mvc"
@@ -16350,6 +16355,11 @@
     {
       "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Customer/Views/Home/Index.cshtml",
       "TargetPath": "Areas\\Customer\\Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/anh-net/projects/dotnetMvc/Shop.Web/Areas/Admin/Views/Company/Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Company\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z70+jeULrQZP1VBV3n2m1eM51GbtDL489lCywz/ejs8=",
+  "Hash": "gwu+NZNhsCS2KOxF584aBd1EAW7NeQj74ic0Pnc3ZlA=",
   "Source": "Shop.Web",
   "BasePath": "_content/Shop.Web",
   "Mode": "Default",
@@ -1205,6 +1205,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/products/ec8b0f2f-68f6-4c6e-8410-cf368326faa2.jpg"
+    },
+    {
+      "Identity": "/home/anh-net/projects/dotnetMvc/Shop.Web/wwwroot/js/company.js",
+      "SourceId": "Shop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/anh-net/projects/dotnetMvc/Shop.Web/wwwroot/",
+      "BasePath": "_content/Shop.Web",
+      "RelativePath": "js/company.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/company.js"
     },
     {
       "Identity": "/home/anh-net/projects/dotnetMvc/Shop.Web/wwwroot/js/product.js",
