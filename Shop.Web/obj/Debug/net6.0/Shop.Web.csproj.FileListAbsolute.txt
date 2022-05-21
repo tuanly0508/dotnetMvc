@@ -566,3 +566,8 @@
 /home/anh-net/projects/dotnetMvc/Shop.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 /home/anh-net/projects/dotnetMvc/Shop.Web/bin/Debug/net6.0/runtimes/win-arm/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
 /home/anh-net/projects/dotnetMvc/Shop.Web/bin/Debug/net6.0/runtimes/win-arm64/lib/net6.0/dotnet-aspnet-codegenerator-design.exe
+/home/anh-net/projects/dotnetMvc/Shop.Web/bin/Debug/net6.0/MailKit.dll
+/home/anh-net/projects/dotnetMvc/Shop.Web/bin/Debug/net6.0/MimeKit.dll
+/home/anh-net/projects/dotnetMvc/Shop.Web/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/home/anh-net/projects/dotnetMvc/Shop.Web/bin/Debug/net6.0/SendGrid.dll
+/home/anh-net/projects/dotnetMvc/Shop.Web/bin/Debug/net6.0/StarkbankEcdsa.dll

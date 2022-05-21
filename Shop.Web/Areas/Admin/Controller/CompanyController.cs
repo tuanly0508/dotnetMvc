@@ -2,7 +2,7 @@ using Shop.Models;
 using Microsoft.AspNetCore.Mvc;
 using Shop.DataAccess.Repository.IRepository;
 
-namespace BulkyBookWeb.Controllers;
+namespace Shop.Controllers;
 [Area("Admin")]
 public class CompanyController : Controller
 {

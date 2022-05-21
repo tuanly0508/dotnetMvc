@@ -1,7 +1,6 @@
-using Shop.DataAccess.Repository.IRepository;
 using Shop.Models;
 
-namespace BulkyBook.DataAccess.Repository.IRepository
+namespace Shop.DataAccess.Repository.IRepository
 {
     public interface ICompanyRepository : IRepository<Company>
     {

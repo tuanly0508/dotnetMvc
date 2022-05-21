@@ -1,4 +1,4 @@
-using BulkyBook.DataAccess.Repository.IRepository;
+using Shop.DataAccess.Repository.IRepository;
 using Shop.Models;
 
 namespace Shop.DataAccess.Repository
